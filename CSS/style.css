@@ -1,0 +1,166 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+header{
+    background-color:#87509c ;
+    color: white;
+    padding: auto;
+}
+nav{padding: 30px;}
+.menu-part li{display: inline-block;
+margin: 0px,8px;
+padding: 5px;}
+.menu-part li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.menu-part li a:hover{background-color: rgba(0, 0, 0, 0.52);
+border-radius: 6px;}
+
+.menu-part{
+    text-align: right;
+padding: 30px 0px;
+}
+.headerwrt{
+    text-align: center;
+  }
+  .headerwrt h2{
+    padding: 9px 0px;
+    font-weight: 300;
+    line-height: 30px;
+  }
+  .headerwrt button{
+    width:200px;
+    padding:10px 6px;
+    margin: 10px;
+    background-color: #eb7d4b;
+    text-transform: uppercase;
+    border-radius: 8px;
+  }
+  nav button{ border-radius:8px ;
+margin: 10px 60px;
+height: 40px;
+width: 80px;
+margin: 10px 7px;
+
+}
+nav button:hover{background-color: rgba(0, 0, 0, 0.425);}
+
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+#service
+{
+    background-color: aqua;
+}
+.row{
+    float: left;
+    width: 100%;
+}
+#team{
+    background-color: #e7f1f8 ;
+}
+#skill{
+    background-color: #ffffff;
+}
+#portfolio{background-color: #ffdd99;}
+
+.clr1{background-color: #ebc985;}
+#testmonials{
+    background-color:#d74680;
+}
+.vis{width: 100%;
+background-color: #87509c;}
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;
+    float: left;}
+.col-3 {width: 25%;
+float: left;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;
+float: left;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;
+    }
+.service-writting-part
+p{font-size: 15px;
+line-height: 15px;
+font-weight: 300;}
+section{padding: 30px 0px;
+text-align: center;}
+.writting-part{
+    margin-bottom: 40px;
+}
+.writting-part h2{font-weight: 300;}
+.underline {
+    border-top: 3px solid rgba(0, 0, 0, 0.386);
+    width: 5%;
+    margin: 10px auto;
+}
+.icon {
+margin: auto 50%;
+    width: 100px;
+    font-size: 20px;
+    
+
+}
+#white{background-color: #e7f1f8;}
+.pc1 img {width: 60%;
+height: 190px;
+margin: 15px ;}
+.pc2 img{width: 60%;
+    height: 190px;
+    margin: 15px;}
+ p button{background-color: #17c2a4;  
+border-radius: 3px;
+margin: 30px auto;
+padding: 20px 20px;
+width: 20%;}
+.textmon-box1 img{width: 80%;
+    height: 120px;
+    margin: 15px 20px;}
+    .textmon-box2 img{width: 80%;
+        height: 120px;
+        margin: 15px 20px;}
+#get-in-touch{background-color: #3c5499;} 
+.get-input1 input{background-color: #273a71;
+border-radius: 2px;
+margin: 50px 10px 20px 10px;
+width: 500px;
+height: 30px;}    
+.get-input2 input{padding: 15px 80px 300px 15px; width: 1050px;
+margin: 30px auto;
+background-color: #273a71;}   
+footer{background-color: #344b8e;
+    width: 100%;
+    text-align: center;
+}
+.foo li{display: inline-block;
+    margin: 5px,40pxpx;
+    
+    padding: 10px;}
+    .foo li a {
+        text-decoration: none;
+        color: white;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+    .foo li a:hover{background-color: rgba(0, 0, 0, 0.52);
+        border-radius: 6px;}
